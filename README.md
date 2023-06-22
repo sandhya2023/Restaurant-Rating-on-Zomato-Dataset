@@ -1,4 +1,4 @@
-<h1 align='center'>Zomato-Restaurrents-Rating-Prediction</h1>
+<h1 align='center'>Zomato-Restaurents-Rating-Prediction</h1>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/388eca72914835.5bf79177986e4.jpg">
 
 ---
